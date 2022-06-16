@@ -1,0 +1,121 @@
+.navbar {
+  display: flex;
+  flex-wrap: inherit;
+  align-items: center;
+  font-size: 1.2rem;
+  text-indent: 2.8rem;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: sticky;
+  
+  background-color: rgb(228, 122, 122);
+
+     
+     font-size: 1.50rem;        
+}
+
+
+.body{
+
+    background-color: rgb(213, 142, 133);
+}
+
+.profile-picture{
+    border-radius: 50%;
+    width: 100%;
+    height:100%;
+    margin-top: 20%;
+}
+
+.title{
+    margin-top: 50%;
+    font-family: "Inconsolates",monospace;
+}
+.sub-title{
+    font-size: 20px;
+    font-family: "Inconsolates",monospace;
+}
+.container{
+border:0  solid rgb(200, 153, 147);
+
+}
+.container {
+border:0  solid rgb(200, 153, 147);
+
+}
+.body{
+background-color:rgb(233, 200, 200);
+}
+.row{
+border: 3px solid rgb(200, 153, 147);
+background-color:rgb(200, 153, 147);
+color:white;
+}
+.col,.col-6,.col-3{
+border: 10px solid rgb(223, 118, 118);
+background-color:white;
+color:black;
+
+}
+.col-4{
+background-color: white;
+border:2px solid white;
+color:black
+}
+.col-8
+{
+background-color: white;
+color:blue;
+border:2px solid black;
+color:black;
+}
+.button{
+font-size:10px;
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 14px;
+    font-size: 20px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 3px;
+    border-radius: 60%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .show{
+    margin-bottom: 3rem!important;
+    font-family:'Times New Roman', Times, serif ;
+  }
